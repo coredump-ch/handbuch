@@ -31,4 +31,4 @@ Die Papier-Handtücher (Tork M2) bestellen wir jeweils von Conrad:
 [Bestell-Nr.
 2302834](https://www.conrad.ch/de/p/tork-standard-papierwischtuecher-fuer-das-m2-innenabrollung-spendersystem-1-lagig-120155-2302834.html).
 Wenn das Papier aufgebraucht ist, informiere bitte jemanden vom
-Vorstand.
+[Vorstand](../verein/vorstand.md).

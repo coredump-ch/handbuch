@@ -7,5 +7,5 @@ definieren unsere Vereinsziele und sollten allen Vereinsmitgliedern
 bekannt sein!
 
 Wenn du die Statuten anpassen möchtest, dann melde dich doch beim
-Vorstand. Über eine Statutenänderung wird an der nächsten
-Vereinsversammlung abgestimmt.
+[Vorstand](../verein/vorstand.md). Über eine Statutenänderung wird an
+der nächsten Vereinsversammlung abgestimmt.

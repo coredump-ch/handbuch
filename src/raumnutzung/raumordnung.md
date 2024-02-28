@@ -6,8 +6,8 @@ Für alle Benützer des Coredumps gilt:
 
 1. **Werkzeug / Schäden:** Die Werkzeuge stehen allen zur freien Nutzung
    zur Verfügung. Allfällige Schäden sind kein Weltuntergang, sollten
-   aber dem Vorstand oder im "Hacker-/Makerspace"-Chat zur Behebung
-   gemeldet werden.
+   aber dem [Vorstand](../verein/vorstand.md) oder im
+   "Hacker-/Makerspace"-Chat zur Behebung gemeldet werden.
 2. **Sauberkeit:** Alle Arbeitsplätze sind sauber zu hinterlassen. Das
    beinhaltet:
    - Grüne Tische im Hackerspace sowie den grossen Arbeitstisch im

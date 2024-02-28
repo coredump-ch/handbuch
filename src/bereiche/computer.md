@@ -12,4 +12,4 @@ Alle Computer im Coredump können frei verwendet werden:
 
 Auf allen Computer kann man sich mit dem Benutzer `coredump` einloggen.
 Das Standardpasswort erfährst du von einem anderen Mitglied, oder du
-fragst beim Vorstand nach.
+fragst beim [Vorstand](../verein/vorstand.md) nach.

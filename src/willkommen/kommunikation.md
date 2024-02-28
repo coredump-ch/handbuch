@@ -37,8 +37,8 @@ dein Smartphone über den Chat zugreifen:
 
 ## Email
 
-Wenn du eine Email an den Vorstand senden willst, schreibe an
-[vorstand@coredump.ch](mailto:vorstand@coredump.ch).
+Wenn du eine Email an den [Vorstand](../verein/vorstand.md) senden
+willst, schreibe an [vorstand@coredump.ch](mailto:vorstand@coredump.ch).
 
 ## Forum
 
@@ -55,5 +55,6 @@ Forums ist nicht öffentlich verfügbar.
 ## Externe Kommunikation
 
 Für die externe Kommunikation dient unsere Website:
-<https://www.coredump.ch/>. Du darfst dich jederzeit beim Vorstand
-melden, wenn du gerne einen Blogpost schreiben möchtest.
+<https://www.coredump.ch/>. Du darfst dich jederzeit beim
+[Vorstand](../verein/vorstand.md) melden, wenn du gerne einen Blogpost
+schreiben möchtest.
