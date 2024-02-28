@@ -1,10 +1,12 @@
 # Summary
 
-- [Willkommen im Coredump](./willkommen/index.md)
-  - [Regelmässige Treffen](./willkommen/treffen.md)
-  - [Kommunikationsmittel](./willkommen/kommunikation.md)
+[Willkommen im Coredump](./willkommen/index.md)
+[Regelmässige Treffen](./willkommen/treffen.md)
+[Kommunikationsmittel](./willkommen/kommunikation.md)
 
 ---
+
+# Administratives
 
 - [Verein](./verein/index.md)
   - [Statuten](./verein/statuten.md)
@@ -12,6 +14,8 @@
   - [Vorstand und Halbleiter](./verein/vorstand.md)
 
 ---
+
+# Unser Space
 
 - [Raumnutzung](./raumnutzung/index.md)
   - [Zugang](./raumnutzung/zugang.md)
@@ -22,9 +26,6 @@
   - [Internet](./raumnutzung/internetzugang.md)
   - [Verbrauchsmaterial](./raumnutzung/verbrauchsmaterial.md)
   - [Space-Telefon](./raumnutzung/telefon.md)
-
----
-
 - [Bereiche / Maschinen / Geräte](./bereiche/index.md)
   - [Bereich: Elektronik-Ecke](./bereiche/elektronik.md)
   - [Bereich: Metall-Ecke](./bereiche/metall.md)
