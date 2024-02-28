@@ -3,10 +3,16 @@
 - [Willkommen im Coredump](./willkommen/index.md)
   - [Regelmässige Treffen](./willkommen/treffen.md)
   - [Kommunikationsmittel](./willkommen/kommunikation.md)
+
+---
+
 - [Verein](./verein/index.md)
   - [Statuten](./verein/statuten.md)
   - [Mitgliedschaft](./verein/mitgliedschaft.md)
   - [Vorstand und Halbleiter](./verein/vorstand.md)
+
+---
+
 - [Raumnutzung](./raumnutzung/index.md)
   - [Zugang](./raumnutzung/zugang.md)
   - [Raumordnung](./raumnutzung/raumordnung.md)
@@ -16,6 +22,9 @@
   - [Internet](./raumnutzung/internetzugang.md)
   - [Verbrauchsmaterial](./raumnutzung/verbrauchsmaterial.md)
   - [Space-Telefon](./raumnutzung/telefon.md)
+
+---
+
 - [Bereiche / Maschinen / Geräte](./bereiche/index.md)
   - [Bereich: Elektronik-Ecke](./bereiche/elektronik.md)
   - [Bereich: Metall-Ecke](./bereiche/metall.md)
