@@ -15,11 +15,21 @@ Unter anderem haben wir folgendes Equipment:
   - Kreissäge
   - Bandsäge
   - Dekupiersäge ("elektrische Laubsäge")
+  - Stichsäge
 - Schleifen:
-  - Schleifmaschinen
+  - Bandschleifer
+  - Exzenterschleifer
+  - Vibrationsschleifer
+  - Winkelschleifer
+  - Bandfeile
 - Fräsen:
   - Oberfräse
   - [CNC-Fräse](./cnc.md)
+- Allgemein:
+  - Akkuschrauber
+  - Schlagbohrer
+  - Luftkompressor
+  - "Böckli"
 
 Weitere Geräte findest du [im
 Inventar](https://interna.coredump.ch/inventory/?category=makerspace).
