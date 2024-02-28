@@ -17,9 +17,9 @@
 
 # Unser Space
 
+- [Raumordnung](./raumnutzung/raumordnung.md)
 - [Raumnutzung](./raumnutzung/index.md)
   - [Zugang](./raumnutzung/zugang.md)
-  - [Raumordnung](./raumnutzung/raumordnung.md)
   - [Strom](./raumnutzung/strom.md)
   - [Getränke / Snacks](./raumnutzung/kühlschrank.md)
   - [Entsorgung](./raumnutzung/entsorgung.md)
