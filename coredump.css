@@ -1,0 +1,4 @@
+h2, h3 {
+    /* Decrease default spacing between sections */
+    margin-block-start: 1.5em;
+}
