@@ -11,4 +11,4 @@ Wir verfügen über zwei Laserdrucker:
   - IP: `10.0.0.200`
 - Lexmark: A3, farbig
   - Hostname: `april`
-  - IP: 10.0.0.201
+  - IP: `10.0.0.201`
