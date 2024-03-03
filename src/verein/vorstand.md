@@ -12,6 +12,9 @@ folgenden Personen zusammensetzt:
 - Maker-Chef: Till
 - Beisitzender: Raphi D.G.
 
+Um den Vorstand zu erreichen, kontaktiere ein Vorstandsmitglied über den Chat,
+oder schicke eine Email an [vorstand@coredump.ch](mailto:vorstand@coredump.ch).
+
 ## Halbleiter
 
 Zusätzlich haben wir einen grösseren Kreis an Personen, die im Coredump
