@@ -46,7 +46,7 @@ Für alle Benutzer des Coredumps gilt:
 
 3. **Projekte:** Projekte, welche (noch) nicht fertiggestellt wurden, können im
    zugeteilten Fach im Projektregal verstaut werden. Falls das Projekt dafür zu
-   gross ist, wird es mit **Namen und Datum** ("wird weggeräumt bis")
+   gross ist, wird es mit Namen und Datum ("wird weggeräumt bis")
    gekennzeichent und innert eines Monats fertiggestellt oder nach Hause
    genommen.
 
