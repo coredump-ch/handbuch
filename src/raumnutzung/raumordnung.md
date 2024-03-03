@@ -5,7 +5,8 @@ Für alle Benutzer des Coredumps gilt:
 1. **Werkzeug / Schäden:** Die Werkzeuge stehen allen zur freien Nutzung
    zur Verfügung. Allfällige Schäden sind kein Weltuntergang, müssen
    aber dem [Vorstand](../verein/vorstand.md) oder im
-   "Hacker-/Makerspace"-Chat zur Behebung gemeldet werden.
+   ["Hacker-/Makerspace"-Chat](https://chat.coredump.ch/coredump/channels/hacker-makerspace)
+   zur Behebung gemeldet werden.
 
 2. **Sauberkeit / Ordnung:** Alle Arbeitsplätze sind sauber und ordentlich zu
    hinterlassen. Das beinhaltet:
@@ -51,8 +52,9 @@ Für alle Benutzer des Coredumps gilt:
 
 4. **Verbrauchsmaterial**: Alles Material, was nicht beschriftet ist, kann frei
    verwendet werden. Wenn Verbrauchsmaterial zur Neige geht (z.B.
-   Atemschutzmasken, Filament/Resin, Handtücher, Getränke, etc.), bitte dem
-   [Vorstand](../verein/vorstand.md) oder im "Hacker-/Makerspace"-Chat melden.
+   Atemschutzmasken, Filament/Resin, Handtücher, Getränke, etc.), bitte im
+   ["Einkaufsliste"-Chat](https://chat.coredump.ch/coredump/channels/einkaufsliste)
+   melden.
 
 5. **Sicherheit:** Persönliche Schutzausrüstung (Schutzbrillen,
    Handschuhe, Atemschutz, etc) ist stets zu tragen, wenn mit
