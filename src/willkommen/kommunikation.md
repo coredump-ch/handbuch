@@ -20,17 +20,21 @@ Themen-Chats ansehen und bei Interesse beitreten. Wichtige Kanäle:
   Alles, was den physikalischen Raum betrifft.
 - [Offtopic](https://chat.coredump.ch/coredump/channels/off-topic): Hier
   darf über (fast) alles diskutiert werden.
+- [Einkaufsliste](https://chat.coredump.ch/coredump/channels/einkaufsliste):
+  Bitte hier melden, wenn Verbrauchsmaterial zur Neige geht und nachbestellt
+  werden sollte (z.B. Atemschutzmasken, 3D-Druck-Filament/Resin, Handtücher,
+  Getränke, etc.)
 - [Food](https://chat.coredump.ch/coredump/channels/food): Hier machen
   wir manchmal ab, um vor dem Coredump zusammen essen zu gehen.
-- [Meta Most](https://chat.coredump.ch/coredump/channels/meta-most):
-  Fragen zum Chatsystem / Mattermost.
 - [Lasercutter](https://chat.coredump.ch/coredump/channels/lasercutter)
   / [3D-Druck](https://chat.coredump.ch/coredump/channels/3d-druck) /
   [CNC](https://chat.coredump.ch/coredump/channels/mpcnc) / etc:
   Themen-Chats zu vielen verschiedenen Themenbereichen.
+- [Meta Most](https://chat.coredump.ch/coredump/channels/meta-most):
+  Fragen zum Chatsystem / Mattermost.
 
 Nachdem du dich auf der Website registriert hast, kannst du auch über
-dein Smartphone über den Chat zugreifen:
+eine Smartphone-App über den Chat zugreifen:
 
 - Android: <https://play.google.com/store/apps/details?id=com.mattermost.rn>
 - iOS: <https://apps.apple.com/us/app/mattermost/id1257222717>

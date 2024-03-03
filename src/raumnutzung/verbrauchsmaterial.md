@@ -1,12 +1,20 @@
 # Verbrauchsmaterial
 
+## Allgemeines und Privates Verbrauchsmaterial
+
 Grundsätzlich gilt: Was nicht beschriftet ist, kann verwendet werden.
 Dabei ist gesunder Menschenverstand anzuwenden. Wenn du nicht sicher
 bist, frag doch kurz im Chat nach.
 
 Falls du selber Material im Coredump lagerst, stelle bitte sicher, dass
-es gut(!) beschriftet ist. Das heisst: Die Beschriftung fällt sofort
-auf, und ist so angebracht dass sie sich nicht ablöst.
+es gut beschriftet ist. Das heisst: Die Beschriftung fällt sofort auf,
+und ist so angebracht dass sie sich nicht ablöst.
+
+## Nachbestellung
+
+Wenn Verbrauchsmaterial fast aufgebraucht ist oder sogar fehlt, schreibe
+eine kurze Nachricht in den
+["Einkaufsliste"-Chat](https://chat.coredump.ch/coredump/channels/einkaufsliste).
 
 ## Elektronik-Bauteile
 
@@ -22,13 +30,11 @@ verwendet werden.
 ## 3D-Druck-Filament
 
 Das Filament befindet sich in den Kisten unter dem 3D-Druck-Tisch. Das
-Material kann verwendet werden, ist aber kostenpflichtig, siehe <TODO
-link 3D-drucker>.
+Material kann verwendet werden, ist aber kostenpflichtig, siehe
+[3D-Drucker](../bereiche/3d-drucker.md).
 
 ## Papier-Handtücher
 
 Die Papier-Handtücher (Tork M2) bestellen wir jeweils von Conrad:
 [Bestell-Nr.
 2302834](https://www.conrad.ch/de/p/tork-standard-papierwischtuecher-fuer-das-m2-innenabrollung-spendersystem-1-lagig-120155-2302834.html).
-Wenn das Papier aufgebraucht ist, informiere bitte jemanden vom
-[Vorstand](../verein/vorstand.md).
