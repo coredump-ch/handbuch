@@ -40,3 +40,7 @@
   - [Textil-Bearbeitung](./bereiche/textil.md)
   - [Auto-Radwechsel](./bereiche/auto.md)
   - [Weitere Geräte](./bereiche/weitere.md)
+
+---
+
+[Dieses Handbuch Editieren](./handbuch.md)
