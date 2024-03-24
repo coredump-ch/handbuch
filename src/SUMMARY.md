@@ -24,6 +24,7 @@
   - [Getränke / Snacks](./raumnutzung/kühlschrank.md)
   - [Entsorgung](./raumnutzung/entsorgung.md)
   - [Internet](./raumnutzung/internetzugang.md)
+  - [Feuerlöscher](./raumnutzung/feuerlöscher.md)
   - [Verbrauchsmaterial](./raumnutzung/verbrauchsmaterial.md)
   - [Space-Telefon](./raumnutzung/telefon.md)
 - [Bereiche / Maschinen / Geräte](./bereiche/index.md)
