@@ -1,7 +1,7 @@
 # Space-Telefon
 
 Im Hackerspace befindet sich ein SIP-Telefon. Dieses ist unter der
-Nummer `055 525 82 80` erreichbar. Bitte nur für eingehende Anrufe
+Nummer `055 508 14 13` erreichbar. Bitte nur für eingehende Anrufe
 verwenden!
 
 ## Telefon-Hardware
