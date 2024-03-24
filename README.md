@@ -8,7 +8,7 @@ Voraussetzung: Rust und Cargo müssen installiert sein.
 
 Danach:
 
-    cargo install mdbook mdbook-admonish mdbook-toc
+    cargo install --locked mdbook mdbook-admonish mdbook-toc
 
 Um die Dokumentation zu builden:
 
