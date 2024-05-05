@@ -48,7 +48,8 @@ Für alle Benutzer des Coredumps gilt:
    zugeteilten Fach im Projektregal verstaut werden. Falls das Projekt dafür zu
    gross ist, wird es mit Namen und Datum ("wird weggeräumt bis")
    gekennzeichent und innert eines Monats fertiggestellt oder nach Hause
-   genommen.
+   genommen. Hierfür stehen laminierte
+   [Projekt-Dauerparkkarten](img/dauerparkkarte.jpg) zur Verfügung.
 
 4. **Verbrauchsmaterial**: Alles Material, was nicht beschriftet ist, kann frei
    verwendet werden. Wenn Verbrauchsmaterial zur Neige geht (z.B.
