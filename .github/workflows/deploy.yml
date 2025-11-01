@@ -3,6 +3,11 @@ on:
   push:
     branches: [main]
 
+env:
+  VERSION_MDBOOK: 0.4.52
+  VERSION_MDBOOK_ADMONISH: 1.20.0
+  VERSION_MDBOOK_TOC: 0.14.2
+
 jobs:
   deploy:
     name: GitHub Pages
@@ -18,20 +23,19 @@ jobs:
           rustup set profile minimal
           rustup toolchain install stable
           rustup default stable
-      - name: Install latest mdbook
+      - name: Install mdbook
         run: |
-          tag=$(curl 'https://api.github.com/repos/rust-lang/mdbook/releases/latest' | jq -r '.tag_name')
-          url="https://github.com/rust-lang/mdbook/releases/download/${tag}/mdbook-${tag}-x86_64-unknown-linux-gnu.tar.gz"
+          url="https://github.com/rust-lang/mdbook/releases/download/v${VERSION_MDBOOK}/mdbook-v${VERSION_MDBOOK}-x86_64-unknown-linux-gnu.tar.gz"
           mkdir bin
           curl -sSL $url | tar -xz --directory=./bin
           echo "$(pwd)/bin" >> $GITHUB_PATH
       - name: Install mdbook-admonish
         run: |
-          url="https://github.com/tommilligan/mdbook-admonish/releases/download/v1.15.0/mdbook-admonish-v1.15.0-x86_64-unknown-linux-gnu.tar.gz"
+          url="https://github.com/tommilligan/mdbook-admonish/releases/download/v${VERSION_MDBOOK_ADMONISH}/mdbook-admonish-v${VERSION_MDBOOK_ADMONISH}-x86_64-unknown-linux-gnu.tar.gz"
           curl -sSL $url | tar -xz --directory=./bin
       - name: Install mdbook-toc
         run: |
-          url="https://github.com/badboy/mdbook-toc/releases/download/0.14.2/mdbook-toc-0.14.2-x86_64-unknown-linux-gnu.tar.gz"
+          url="https://github.com/badboy/mdbook-toc/releases/download/${VERSION_MDBOOK_TOC}/mdbook-toc-${VERSION_MDBOOK_TOC}-x86_64-unknown-linux-gnu.tar.gz"
           curl -sSL $url | tar -xz --directory=./bin
       - name: Build Book
         run: mdbook build
