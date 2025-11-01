@@ -1,6 +1,9 @@
 name: CI
 on: [push, pull_request]
 
+env:
+  VERSION_MDBOOK: 0.4.52
+
 jobs:
   test:
     name: Test
@@ -16,8 +19,7 @@ jobs:
           rustup default stable
       - name: Install latest mdbook
         run: |
-          tag=$(curl 'https://api.github.com/repos/rust-lang/mdbook/releases/latest' | jq -r '.tag_name')
-          url="https://github.com/rust-lang/mdbook/releases/download/${tag}/mdbook-${tag}-x86_64-unknown-linux-gnu.tar.gz"
+          url="https://github.com/rust-lang/mdbook/releases/download/v${VERSION_MDBOOK}/mdbook-v${VERSION_MDBOOK}-x86_64-unknown-linux-gnu.tar.gz"
           mkdir bin
           curl -sSL $url | tar -xz --directory=bin
           echo "$(pwd)/bin" >> $GITHUB_PATH
