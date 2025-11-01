@@ -106,6 +106,11 @@ Source: <https://git.coredump.ch/space/laser-intro>
 
 ## Tipps und Tricks
 
+### Boxes.py: Generator für Laser-Files
+
+Unter <https://boxes.hackerspace-bamberg.de/> findet ihr allerlei Generatoren
+für coole Boxen, Regale, Halterungen und mehr.
+
 ### Sperrholz biegbar machen
 
 <https://www.thingiverse.com/thing:12707>
